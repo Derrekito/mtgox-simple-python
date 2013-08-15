@@ -1,0 +1,3 @@
+# Insert into ~/.conkyrc configuration file
+
+${texeci 1800 python ~/.conky_scripts/mtgox.py}
